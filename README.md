@@ -224,7 +224,3 @@ init()
 
 
 
-
-**左手代码右手砖，抛砖引玉**
-
-![JavaScript之禅](https://user-gold-cdn.xitu.io/2017/12/2/16014b551df70a85)
